@@ -1,6 +1,6 @@
 # Unium — Contracts & Invoices on Ethereum
 
-A prototype web app for freelancers to generate legally-sound contracts and pay invoices via Ethereum smart contracts.
+A web app for freelancers to generate contracts and pay invoices via Ethereum smart contracts.
 
 ![Stack](https://img.shields.io/badge/React-18-blue) ![Ethers](https://img.shields.io/badge/ethers.js-v6-purple) ![Vite](https://img.shields.io/badge/Vite-5-yellow) ![Solidity](https://img.shields.io/badge/Solidity-0.8.19-gray)
 
