@@ -34,20 +34,6 @@ A prototype web app for freelancers to generate legally-sound contracts and pay 
 | Build Tool | Vite 5 |
 | Styling | Pure CSS (no component libraries) |
 
----
-
-## Getting Started
-
-```bash
-npm install
-npm run dev
-```
-
-Open `http://localhost:5173`.
-
-> **Note:** This is a prototype. ETH prices are mocked at **1 ETH = $3,000 USD**. Payments are direct peer-to-peer transfers to the freelancer's address. Use **Sepolia testnet** for demo payments.
-
----
 
 ## App Flow
 
