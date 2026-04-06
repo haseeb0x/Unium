@@ -34,6 +34,7 @@ A web app for freelancers to generate contracts and pay invoices via Ethereum sm
 | Build Tool | Vite 5 |
 | Styling | Pure CSS (no component libraries) |
 
+Note: This is a prototype of the production-code we developed in 2016. Not for production, see legal disclaimer at bottom.
 
 ## App Flow
 
