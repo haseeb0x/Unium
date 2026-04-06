@@ -16,6 +16,14 @@ A prototype web app for freelancers to generate legally-sound contracts and pay 
 
 ---
 
+<img width="1138" height="880" alt="Screenshot 2026-04-05 222654" src="https://github.com/user-attachments/assets/7d39efb1-8f31-47bb-abba-37f494620297" />
+
+<img width="771" height="884" alt="Screenshot 2026-04-05 223805" src="https://github.com/user-attachments/assets/b047715d-d9a2-48c2-9048-e1507fdc7e0b" />
+
+<img width="1157" height="869" alt="Screenshot 2026-04-05 223939" src="https://github.com/user-attachments/assets/7b65bf99-77c5-42a9-ad22-a792ba28d2f2" />
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
